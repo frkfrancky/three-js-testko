@@ -1,0 +1,4 @@
+Atao anaty public ilay model, de soloina ny anarany gltf sy bin
+avy eo miditra amin'ny gltf de tedavina hoe buffers (soloina ilay bin)
+
+manao npx gltfjsx anaranaModel.glt (mamadika ho component) 
